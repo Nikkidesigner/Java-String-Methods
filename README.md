@@ -132,8 +132,6 @@ Kava is a programming language. Kava is a platform. Kava is an Island.
 
 following are more methods in string , stringbuffer and string builder :
 
-class  StringMethods
-{
 
 	public static void main(String[] args) 
  
@@ -208,6 +206,5 @@ class  StringMethods
 			System.out.println("\n----------------------------------------------\n\n The line 'String nullstring = null'   will create a variable which is storing null. \n hence we are not able to calculate the length of the string.;");
        }
 
-	}
-}
+	} }
  
