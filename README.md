@@ -128,11 +128,15 @@ Output:
 Kava is a programming language. Kava is a platform. Kava is an Island.
 
 //------------------------------------------------------------
+
+
 following are more methods in string , stringbuffer and string builder :
 
 class  StringMethods
 {
+
 	public static void main(String[] args) 
+ 
 	{
 		String name = "           Nikhil Rajesh Pawar     ";
 		String emp = "";
