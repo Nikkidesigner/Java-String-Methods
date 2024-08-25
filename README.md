@@ -126,6 +126,28 @@ System.out.println(replaceString);
 Output:
 
 Kava is a programming language. Kava is a platform. Kava is an Island.
+//------------------------------------------------------------
+String CompareTo() Method
+This method compares input strings with each other. Upon comparison, the following value is returned:
+If (str1>str2), a positive value is returned.
+If (str1==str2), 0 is returned.
+If (str1<str2), a negative value is returned.
+Syntax:
+
+str1.compareTo(str2)
+Example: 
+
+Input 1= InterviewBit
+Input 2= Scaler
+Output= -10
+
+Input 1= Scaler
+Input 2= Scaler
+Output= 0
+
+Input 1= Scaler
+Input 2= InterviewBit
+Output= 10
 
 //------------------------------------------------------------
 
